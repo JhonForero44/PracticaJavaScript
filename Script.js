@@ -5,8 +5,6 @@ let personas = [
     { nombre: "Luis", edad: 35, ciudad: "Cali" }
 ];
 
-// 3. Agrega una nueva persona al arreglo con nombre "Marta", edad 28 y ciudad "Barranquilla". 
-
 // 4. Elimina a la persona que vive en "Cali" del arreglo.
 
 
@@ -49,3 +47,10 @@ for (let i = 0; i<personas.length; i++){
     }
 }
 */
+
+/* 
+3. Agrega una nueva persona al arreglo con nombre "Marta", edad 28 y ciudad "Barranquilla". 
+personas.push({ nombre: "Marta", edad: 28, ciudad: "Barranquilla"})
+console.log(personas)
+*/
+
